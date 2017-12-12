@@ -1,4 +1,4 @@
 language: java
 sudo: false
-cd mm-batch
+before_script: cd mm-batch
 script: mvn test
