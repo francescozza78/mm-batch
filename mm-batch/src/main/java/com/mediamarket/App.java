@@ -1,7 +1,5 @@
 package com.mediamarket;
 
-import java.util.logging.Logger;
-
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobExecution;
 import org.springframework.batch.core.JobParameters;
